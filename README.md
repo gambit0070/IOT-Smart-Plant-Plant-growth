@@ -29,11 +29,11 @@
 
 1 System should make soil humidity checks more frewuent when the water pump is working. If soil humidity is not increeasing app sending notification to user "Check the pump"
 
-2 Check if the lamp turned on but light level did not increase, send message to user " Check lamp"
+2 Check if the lamp turned on but light level did not increase, send message to user " Check lamp" Jackie
 
 3 if the soil humidity is not decreasing for long time send message " check soil drainage or soil humidity" Dmitry
 
-4 emergency pump stop if water humidity came to high at watering process
+4 emergency pump stop if water humidity came to high at watering process Jackie
 
 5 turning fan on max speed when tempreture too hot. DMitry
 
