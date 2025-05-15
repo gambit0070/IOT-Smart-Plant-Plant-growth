@@ -4,7 +4,7 @@
 
 1 connect controller to blink cloud and blink app
 
-2 Air and soil humidity and temperature have own radial gauge to show last measures
+2 Air and soil humidity and temperature have own radial gauge to show last measures Jackie
 
 3 manual switch on/off buttom for water pump. Dmitry
 
@@ -12,13 +12,13 @@
 
 5 make notifications for app if the any of measurements out of normal range
 
-6 User should be able to set humidity manually in app for controlling the pump triggers
+6 User should be able to set humidity manually in app for controlling the pump triggers Jackie
 
 7 User should be able to adjust measuments normal ranges manually in the app Dmitry
 
 8 Controller suppose to have different sets of work. ! set is a different plan with different frequancy of measurements and ranges for different type of plants. Different sets should be on controllers and user have dropmenu in app to choose any of them. For example should be different modes for flowers, herbs etc.                        Amber
 
-9 we need dashboard in the app for showing measurements changes for past week
+9 we need dashboard in the app for showing measurements changes for past week Jackie
 
 10 add light sensor and lump to system for light control and add the light settings to previous steps
 
