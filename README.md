@@ -6,15 +6,15 @@
 
 2 Air and soil humidity and temperature have own radial gauge to show last measures
 
-3 manual switch on/off buttom for water pump
+3 manual switch on/off buttom for water pump. Dmitry
 
-4 implement the automated water pump control by setting logic turn onn pump if water soil <*** turn of if > ****
+4 implement the automated water pump control by setting logic turn onn pump if water soil <*** turn of if > ****  Dmitry
 
 5 make notifications for app if the any of measurements out of normal range
 
 6 User should be able to set humidity manually in app for controlling the pump triggers
 
-7 User should be able to adjust measuments normal ranges manually in the app
+7 User should be able to adjust measuments normal ranges manually in the app Dmitry
 
 8 Controller suppose to have different sets of work. ! set is a different plan with different frequancy of measurements and ranges for different type of plants. Different sets should be on controllers and user have dropmenu in app to choose any of them. For example should be different modes for flowers, herbs etc.                        Amber
 
@@ -31,11 +31,11 @@
 
 2 Check if the lamp turned on but light level did not increase, send message to user " Check lamp"
 
-3 if the soil humidity is not decreasing for long time send message " check soil drainage or soil humidity"
+3 if the soil humidity is not decreasing for long time send message " check soil drainage or soil humidity" Dmitry
 
 4 emergency pump stop if water humidity came to high at watering process
 
-5 turning fan on max speed when tempreture too hot.
+5 turning fan on max speed when tempreture too hot. DMitry
 
 
 
