@@ -1,0 +1,25 @@
+# Node.js / React 前端
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+node_modules
+# Python 后端
+backend/__pycache__/
+backend/*.pyc
+backend/.DS_Store
+backend/venv/
+backend/.env
+backend/*.log
+
+# SQLite 数据库文件
+backend/*.db
+
+# VS Code
+.vscode/
+
+# macOS 系统文件
+.DS_Store
+
+# 环境依赖锁文件（如你不打算上传）
+*.lock
